@@ -18,3 +18,13 @@ class Solution:
         
         
         #Your code here
+Approach:
+This algorithm uses reversal technique to rotate the array efficiently. The steps are:
+- Reverse the first d elements.
+- Reverse the remaining elements from index d to n-1.
+- Reverse the entire array to restore correct order.
+This ensures that elements are correctly shifted to the left in O(n) time complexity without needing extra space.
+Complexity Analysis:
+- Time Complexity: O(n) – Each reversal takes linear time, so overall it remains linear.
+- Space Complexity: O(1) – Since the reversal happens in place, no extra space is used.
+This is an optimal approach compared to brute-force shifting elements one by one (O(nd) in worst case).
