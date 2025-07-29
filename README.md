@@ -1,14 +1,21 @@
 # 👨‍💻 DSA Problem Solutions — geeksforgeeks 
-This repository contains my curated solutions to **Data Structures and Algorithms** problems from platforms like **LeetCode** and **GeeksforGeeks**, neatly organized by problem number and title.
+This repository contains my curated solutions to **Data Structures and Algorithms** problems from platforms like **GeeksforGeeks**, neatly organized by  title.
 
 ---
 
 ## 📌 Repository Structure
 
 Examples:
+- ASCII Range Sum
+- Count Unique Vowel Strings
+- Divisible by 13
+- Count Numbers Containing Speci...
+- Lexicographically Largest Stri...
+- Group Balls by Sequence
+- Tiling Problem
 -
 
-Languages used: **Python**, **C++**, **Java**
+Languages used: **Python 3**, **Java**
 ---
 
 ## 🎯 Goals
@@ -36,7 +43,7 @@ Languages used: **Python**, **C++**, **Java**
 
 ## 🔍 How to Navigate
 
-1. Browse by **problem number**, **platform**, or **topic**
+1. Browse by **platform**, or **topic**
 2. Open individual files for the **solution** and detailed comments
 3. Refer to inline explanations for approach, complexity, and edge cases
 
