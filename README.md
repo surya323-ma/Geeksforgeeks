@@ -45,7 +45,7 @@ Examples:
 - Open individual files for the solution and detailed comments
 - Refer to inline explanations for approach, complexity, and edge cases
 
-# **📘 Bonus:** Some problems include links to discussions, alternate approaches, and input/output samples.
+**📘 Bonus:** Some problems include links to discussions, alternate approaches, and input/output samples.
 
 
 # **🧑‍💻 About Me**
