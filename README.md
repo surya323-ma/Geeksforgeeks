@@ -25,6 +25,18 @@ Examples:
 - 📈 Track personal progress over time
 - 💼 Prepare for competitive programming & job interviews
 
+## 📊 Stats
+
+<!-- STATS-START -->
+| Metric | Count |
+|---|---|
+| Total solutions | 0 |
+| Python solutions | 0 |
+| Java solutions | 0 |
+| C solutions | 0 |
+
+_Last updated: never_
+<!-- STATS-END -->
 
 # **🧠 Topics Covered**
 
