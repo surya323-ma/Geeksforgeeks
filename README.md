@@ -33,6 +33,7 @@ Examples:
 | Total solutions | 142 |
 | Python solutions | 140 |
 | Java solutions | 2 |
+| C solution | 0 |
 
 _Last updated: 2026-09-17 05:16 UTC_
 <!-- STATS-END -->
